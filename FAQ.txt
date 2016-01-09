@@ -2,7 +2,7 @@ GOOGLE PLAY GAMES - ANDROID SAMPLES
 FREQUENTLY ASKED QUESTIONS
 
 
-[0] Why should I use BaseGameActivity/GameHelper instead of the regular API?
+[0]  Why should I use BaseGameActivity/GameHelper instead of the regular API?
 
     BaseGameActivity and GameHelper are not a substitute for the regular
     Google Play Games API. Rather, they are sample helper classes intended to
@@ -11,7 +11,7 @@ FREQUENTLY ASKED QUESTIONS
     these sample helpers, but doing so might save you some work.
 
 
-[1] How should I compile BaseGameUtils into my project?
+[1]  How should I compile BaseGameUtils into my project?
 
     Include BaseGameUtils as a library project. Consult your build system's
     documentation as to how to accomplish this, since this varies by IDE.
